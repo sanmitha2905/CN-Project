@@ -1,4 +1,4 @@
-sstreamlit
+streamlit==1.39.0
 pandas
 numpy
 scikit-learn
@@ -6,4 +6,5 @@ joblib
 plotly
 streamlit-option-menu
 streamlit-extras
+
 
