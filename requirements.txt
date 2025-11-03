@@ -1,4 +1,9 @@
-streamlit
+sstreamlit
 pandas
+numpy
 scikit-learn
 joblib
+plotly
+streamlit-option-menu
+streamlit-extras
+
